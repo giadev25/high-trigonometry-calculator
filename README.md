@@ -6,11 +6,11 @@ Tinggi tiang bendera adalah informasi penting dalam berbagai konteks, seperti me
 
 II. Tujuan
 
-Tujuan dari laporan ini adalah memberikan pemahaman tentang bagaimana kita dapat menggunakan prinsip-prinsip trigonometri dan perangkat komputer untuk menghitung tinggi tiang bendera sekolah dengan akurat. Kami juga akan memberikan contoh implementasi menggunakan bahasa pemrograman Python.
+Tujuan dari laporan ini adalah memberikan pemahaman tentang bagaimana kita dapat menggunakan prinsip-prinsip trigonometri dan perangkat komputer untuk menghitung tinggi tiang bendera sekolah dengan hasil yang mendekati. Saya juga akan memberikan contoh implementasi menggunakan bahasa pemrograman Python.
 
 III. Batasan Masalah
 
-Dalam penentuan tinggi tiang bendera sekolah, kami mempertimbangkan batasan-batasan berikut:
+Dalam penentuan tinggi tiang bendera sekolah, saya mempertimbangkan batasan-batasan berikut:
 
 1. Hanya informasi yang tersedia adalah sudut pengamatan (dalam derajat), jarak dari pengamatan (dalam satuan yang sama dengan tinggi badan), dan tinggi badan pengamat (dalam satuan yang sama dengan jarak).
 
